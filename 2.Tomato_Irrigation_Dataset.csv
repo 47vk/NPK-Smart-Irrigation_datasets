@@ -1,4 +1,4 @@
-temperature ,humidity ,soil_moisture,reference_evapotranspiration,evapotranspiration,crop_Coefficient,crop_coefficient_stage,nitrogen ,phosphorus ,potassium,solar_radiation_ghi,wind_speed,Days_of_planted,pH
+temperature,humidity,soil_moisture,reference_evapotranspiration,evapotranspiration,crop_Coefficient,crop_coefficient_stage,nitrogen,phosphorus,potassium,solar_radiation_ghi,wind_speed,Days_of_planted,pH
 31.2,93.6,567,563.0000865,236.4600363,0.42,Initial Stage,107,38,53,622,2.09,1,3.32
 31.2,93.6,567,561.1765782,235.6941629,0.42,Initial Stage,107,38,53,622,2.09,1,3.77
 30.5,74.6,307,561.2671696,235.7322112,0.42,Initial Stage,107,38,53,622,2.09,3,2.9
