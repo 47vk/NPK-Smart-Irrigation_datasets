@@ -1,4 +1,4 @@
-timestamp,NPK_level,temperature ,humidity ,pH_value,diseased
+timestamp,NPK_level,temperature,humidity,pH_value,diseased
 27-11-2023 10:00,2,22,45,67,1
 27-11-2023 10:01,1,23,47,56,0
 27-11-2023 10:02,3,22,50,67,0
